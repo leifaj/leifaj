@@ -15,7 +15,7 @@
 </p>
 
 ## About Me
-* 👋 &nbsp;I'm Leianne Fajutagana (she/her)
+* 👋 &nbsp;I'm Leianne (she/her)
 * 🌉 &nbsp;I'm from the San Francisco Bay Area
 * 🧠 &nbsp;I’m currently learning React
 * 💖 &nbsp;I love watching anime, stanning BTS, & roller skating 🛼
