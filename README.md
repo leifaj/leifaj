@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Leianne! ✨</h1>
+<img src="personal-header.png" width="100%">
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=F46DB0&vCenter=true&center=true&width=460&lines=full-stack+web+developer;nerd+of+all+trades;learning+enthusiast" </p>
 
