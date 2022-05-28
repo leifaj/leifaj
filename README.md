@@ -20,6 +20,26 @@
 * 🧠 &nbsp;I’m currently learning React
 * 💖 &nbsp;I love watching anime, stanning BTS, & roller skating 🛼
 
+## Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI Response Generator</h3>
+      <br/>
+      <a target="_blank" href="https://ai-response-generator.herokuapp.com/"><img src="./images/ai-response-generator-demo.gif" width="100%" alt="AI Response Generator"/></a>
+      <br/>
+      <p align="center">An app that sends text prompts to the OpenAI API and displays the results in a list. The AI model generates a text completion that attemps to match whatever context or pattern you give it!</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Who's That Pokémon?</h3>
+      <br/>
+      <a target="_blank" href="leifaj.github.io/whos-that-pokemon/"><img src="./images/poke-demo.gif" width="100%" alt="Who's That Pokémon?"/></a>
+      <br/>
+      <p align="center">A Pokémon guessing game! Try to guess the Pokémon based off of its silhouette.</p>
+    </td>
+  </tr>
+</table>
+
 ## Technologies
 ![skills](https://skillicons.dev/icons?i=html,css,js,react,py,r,vim,git,vscode&theme=light)
 
