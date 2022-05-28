@@ -26,16 +26,32 @@
     <td width="50%">
       <h3 align="center">AI Response Generator</h3>
       <br/>
-      <a target="_blank" href="https://ai-response-generator.herokuapp.com/"><img src="./images/ai-response-generator-demo.gif" width="100%" alt="AI Response Generator"/></a>
+      <a target="_blank" href="https://ai-response-generator.herokuapp.com/"><img src="./project-gifs/pixel-art-demo.gif" width="100%" alt="AI Response Generator"/></a>
       <br/>
       <p align="center">An app that sends text prompts to the OpenAI API and displays the results in a list. The AI model generates a text completion that attemps to match whatever context or pattern you give it!</p>
     </td>
     <td width="50%">
       <h3 align="center">Who's That Pokémon?</h3>
       <br/>
-      <a target="_blank" href="leifaj.github.io/whos-that-pokemon/"><img src="./images/poke-demo.gif" width="100%" alt="Who's That Pokémon?"/></a>
+      <a target="_blank" href="leifaj.github.io/whos-that-pokemon/"><img src="./project-gifs/poke-demo.gif" width="100%" alt="Who's That Pokémon?"/></a>
       <br/>
       <p align="center">A Pokémon guessing game! Try to guess the Pokémon based off of its silhouette.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Pixel Art Editor</h3>
+      <br/>
+      <a target="_blank" href="leifaj.github.io/pixel-art/"><img src="./project-gifs/pixel-art-demo.gif" width="100%" alt="Pixel Art Editor"/></a>
+      <br/>
+      <p align="center">A pixel art editor you can use in the browser.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Sugar Bakery Website</h3>
+      <br/>
+      <a target="_blank" href="leifaj.github.io/sugar-bakery-site/"><img src="./project-gifs/sugar-bakery-demo.gif" width="100%" alt="Sugar Bakery Website"/></a>
+      <br/>
+      <p align="center">A fully responsive website for a bakery.</p>
     </td>
   </tr>
 </table>
