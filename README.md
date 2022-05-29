@@ -20,6 +20,8 @@
 * 🧠 &nbsp;I’m currently learning React
 * 💖 &nbsp;I love watching anime, stanning BTS, & roller skating 🛼
 
+See [my website](leianne.netlify.app) for more information!
+
 ## Projects
 <table>
   <tr>
