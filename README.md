@@ -79,7 +79,7 @@ See [my website](leianne.netlify.app) for more information!
 </table>
 
 ## Technologies
-![skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py,r,vim,git,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py,r,sql,vim,git,vscode&theme=light)
 
 ## My Stats
 <p align="center">
