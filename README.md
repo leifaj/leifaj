@@ -61,7 +61,7 @@ See [my website](leianne.netlify.app) for more information!
           <span> | </span>
           <a href="leifaj.github.io/pixel-art/">Site</a>
       </div>
-      <p align="center">A pixel art editor you can use in the browser.</p>
+      <p align="center">A pixel art drawing tool with customizable canvas sizes and color options.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Sugar Bakery Website</h3>
