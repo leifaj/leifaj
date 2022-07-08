@@ -17,7 +17,7 @@
 ## About Me
 * 👋 &nbsp;I'm Leianne (she/her)
 * 🌉 &nbsp;I'm from the San Francisco Bay Area
-* 🧠 &nbsp;I’m currently learning data science & building my own API
+* 🧠 &nbsp;I’m currently learning SQL
 * 💖 &nbsp;I love watching anime, stanning BTS, & roller skating 🛼
 
 See [my website](leianne.netlify.app) for more information!
