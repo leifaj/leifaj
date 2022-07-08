@@ -26,6 +26,18 @@ See [my website](leianne.netlify.app) for more information!
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">BTS Memes API</h3>
+      <br/>
+      <img src="./project-gifs/bts-memes-api-demo.gif" width="100%" alt="BTS Memes API"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/leifaj/bts-memes-api">Repo</a>
+          <span> | </span>
+          <a href="https://bts-memes-api.herokuapp.com/">Site</a>
+      </div>
+      <p align="center">A RESTful API that uses HTTP requests to create, delete, and read bts meme images from a MongoDB database.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">AI Response Generator</h3>
       <br/>
       <img src="./project-gifs/ai-response-generator-demo.gif" width="100%" alt="AI Response Generator"/>
@@ -36,6 +48,18 @@ See [my website](leianne.netlify.app) for more information!
           <a href="https://ai-response-generator.herokuapp.com/">Site</a>
       </div>
       <p align="center">An app that sends text prompts to the OpenAI API and displays the results in a list. The AI model generates a text completion that attemps to match whatever context or pattern you give it!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+      <br/>
+      <img src="./project-gifs/portfolio-demo.gif" width="100%" alt="Leianne Fajutagana's Portfolio"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/leifaj/portfolio">Repo</a>
+          <span> | </span>
+          <a href="https://leianne.netlify.app/">Site</a>
+      </div>
+      <p align="center">My portfolio website. It includes information about me and showcases my skills & projects.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Who's That Pokémon?</h3>
