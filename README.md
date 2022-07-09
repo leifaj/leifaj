@@ -97,7 +97,7 @@ See [my website](https://leianne.netlify.app/) for more information!
       <div align="center">
           <a href="https://github.com/leifaj/sugar-bakery-site">Repo</a>
           <span> | </span>
-          <a href="leifaj.github.io/sugar-bakery-site/">Site</a>
+          <a href="https://leifaj.github.io/sugar-bakery-site/">Site</a>
       </div>
       <p align="center">A fully responsive website for a bakery.</p>
     </td>
