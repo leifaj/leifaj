@@ -28,7 +28,7 @@ See [my website](leianne.netlify.app) for more information!
     <td width="50%" valign="top">
       <h3 align="center">BTS Memes API</h3>
       <br/>
-      <img src="./project-gifs/bts-memes-api-demo.gif" width="33.3333%" alt="BTS Memes API"/>
+      <img src="./project-gifs/bts-memes-api-demo.gif" width="100%" alt="BTS Memes API"/>
       <br/>
       <div align="center">
           <a href="https://github.com/leifaj/bts-memes-api">Repo</a>
