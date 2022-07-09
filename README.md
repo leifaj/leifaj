@@ -20,7 +20,7 @@
 * 🧠 &nbsp;I’m currently learning SQL
 * 💖 &nbsp;I love watching anime, stanning BTS, & roller skating 🛼
 
-See [my website](leianne.netlify.app) for more information!
+See [my website](https://leianne.netlify.app/) for more information!
 
 ## Projects
 <table>
