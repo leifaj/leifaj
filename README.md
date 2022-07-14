@@ -45,7 +45,7 @@ See [my website](https://leianne.netlify.app/) for more information!
       <div align="center">
           <a href="https://github.com/leifaj/to-do">Repo</a>
           <span> | </span>
-          <a href="https://leifaj.github.io/to-do//">Site</a>
+          <a href="https://leifaj.github.io/to-do/">Site</a>
       </div>
       <p align="center">A simple and intuitive checklist app made with React.</p>
     </td>
