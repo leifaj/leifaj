@@ -38,6 +38,20 @@ See [my website](https://leianne.netlify.app/) for more information!
       <p align="center">A RESTful API that uses HTTP requests to create, delete, and read bts meme images from a MongoDB database.</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">To Do List</h3>
+      <br/>
+      <img src="./project-gifs/to-do-demo.gif" width="100%" alt="To Do List"/>
+      <br/>
+      <div align="center">
+          <a href="https://github.com/leifaj/to-do">Repo</a>
+          <span> | </span>
+          <a href="https://leifaj.github.io/to-do//">Site</a>
+      </div>
+      <p align="center">A simple and intuitive checklist app made with React.</p>
+    </td>
+  </tr>
+  <tr>
+  <td width="50%" valign="top">
       <h3 align="center">AI Response Generator</h3>
       <br/>
       <img src="./project-gifs/ai-response-generator-demo.gif" width="100%" alt="AI Response Generator"/>
@@ -49,8 +63,6 @@ See [my website](https://leianne.netlify.app/) for more information!
       </div>
       <p align="center">An app that sends text prompts to the OpenAI API and displays the results in a list. The AI model generates a text completion that attemps to match whatever context or pattern you give it!</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
       <br/>
@@ -63,6 +75,8 @@ See [my website](https://leianne.netlify.app/) for more information!
       </div>
       <p align="center">My portfolio website. It includes information about me and showcases my skills & projects.</p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Who's That Pokémon?</h3>
       <br/>
@@ -75,8 +89,6 @@ See [my website](https://leianne.netlify.app/) for more information!
       </div>
       <p align="center">A Pokémon guessing game! Try to guess the Pokémon based off of its silhouette.</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Pixel Art Editor</h3>
       <br/>
@@ -88,18 +100,6 @@ See [my website](https://leianne.netlify.app/) for more information!
           <a href="leifaj.github.io/pixel-art/">Site</a>
       </div>
       <p align="center">A pixel art drawing tool with customizable canvas sizes and color options.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Sugar Bakery Website</h3>
-      <br/>
-      <img src="./project-gifs/sugar-bakery-demo.gif" width="100%" alt="Sugar Bakery Website"/>
-      <br/>
-      <div align="center">
-          <a href="https://github.com/leifaj/sugar-bakery-site">Repo</a>
-          <span> | </span>
-          <a href="https://leifaj.github.io/sugar-bakery-site/">Site</a>
-      </div>
-      <p align="center">A fully responsive website for a bakery.</p>
     </td>
   </tr>
 </table>
