@@ -85,7 +85,7 @@ See [my website](https://leianne.netlify.app/) for more information!
       <div align="center">
           <a href="https://github.com/leifaj/whos-that-pokemon">Repo</a>
           <span> | </span>
-          <a href="leifaj.github.io/whos-that-pokemon/">Site</a>
+          <a href="https://leifaj.github.io/whos-that-pokemon/">Site</a>
       </div>
       <p align="center">A Pokémon guessing game! Try to guess the Pokémon based off of its silhouette.</p>
     </td>
